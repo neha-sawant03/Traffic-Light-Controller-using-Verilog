@@ -1,1 +1,1 @@
-# VLSI-Project
+# Traffic-Light-Controller-using-Verilog
